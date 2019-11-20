@@ -7,7 +7,7 @@ class Reptile
 public:
 	int age;
 	string name;
-	float lenght;
+	float lenght
 	void Print()
 	{
 		cout << "NAME: " << name << "\nAGE: " << age << "\nLENGHT: "<< lenght << "\n<()()()()()()()()()()()()(  ')-<" << endl;
