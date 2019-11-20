@@ -19,7 +19,7 @@ int main()
 	float cof = 1.5; // age lenght modifier 
 	Reptile Snake;
 	Snake.age = 10;
-	Snake.name = "Anakonda";
+	Snake.name = "Anakonda_ANANANAKONDA";
 	Snake.lenght = Snake.age*cof;
 	Snake.Print();
 	cout << "___________________________" << endl;
